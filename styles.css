@@ -1,0 +1,28 @@
+* {
+ font-family: Helvetica;
+}
+
+button {
+ background-color: gray;
+ font-weight: 600;
+ color: white;
+}
+
+h3 {
+ margin-left: 20px;
+ color: gray;
+}
+
+h1{
+ margin-top: 20px;
+}
+
+
+#numCount, #numSum, #average, #stringCount, #concat {
+ margin-left: 25px;
+}
+
+
+#reset, #submit{
+ margin-top: 10px;
+}
